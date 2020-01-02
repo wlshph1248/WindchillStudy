@@ -1,1 +1,1 @@
-#Windchill二次开发部署虚拟机插件，类似Eclipse中filedeliver插件
+#本存储，存储Windchill二次开发学习的一些代码
